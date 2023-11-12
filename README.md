@@ -24,6 +24,10 @@ You may also see any lint errors in the console.
 # Technology
 React.js, Bootstrap, Node.js
 
+# Requirements
+Node,
+Nodemon
+
 # Author
 Yohannes Nigusie,
 GitHub: @YohannesNi
