@@ -2,6 +2,9 @@
 
 Apple.com clone web app that is built using React.js and Node.js
 
+# Introduction
+This project illustrates the process of replicating Apple's current website using React. Additionally, it showcases the integration of Bootstrap with React to construct a responsive website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
