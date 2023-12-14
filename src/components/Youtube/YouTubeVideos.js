@@ -20,11 +20,11 @@ function YouTubeVideos() {
   return (
     <div className="allVideosWrapper">
       <div className="container">
-        <div className="row h-100 align-items-center justify-content-center text-center">
+        <div className="row h-100  justify-content-center text-center">
           <div className="col-12">
             <div className="title-wraper bold video-title-wrapper">
               <br />
-              <h1>Latest Videos</h1>
+              <div className="title-wraper ">Latest Videos</div>
               <br />
             </div>
           </div>
