@@ -1,4 +1,4 @@
-# Apple-Clone
+# Apple Clone Website
 
 Apple.com clone web app that is built using React.js and Node.js
 
