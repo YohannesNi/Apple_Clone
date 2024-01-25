@@ -9,6 +9,13 @@ This project illustrates the process of replicating Apple's current website usin
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Getting Started with Create React App
+
+- Responsive design
+- Interactive elements
+- Product showcase
+- Navigation menu
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -25,7 +32,7 @@ You may also see any lint errors in the console.
 React.js, Bootstrap, Node.js
 
 # Requirements
-Node,
+Node
 Nodemon
 
 # Author
